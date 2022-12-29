@@ -1,0 +1,15 @@
+C:\Users\khacnguyen\source\repos\C2109i2CSharp\CSharpNet7\PartialClass\bin\Debug\net7.0\PartialClass.exe
+C:\Users\khacnguyen\source\repos\C2109i2CSharp\CSharpNet7\PartialClass\bin\Debug\net7.0\PartialClass.deps.json
+C:\Users\khacnguyen\source\repos\C2109i2CSharp\CSharpNet7\PartialClass\bin\Debug\net7.0\PartialClass.runtimeconfig.json
+C:\Users\khacnguyen\source\repos\C2109i2CSharp\CSharpNet7\PartialClass\bin\Debug\net7.0\PartialClass.dll
+C:\Users\khacnguyen\source\repos\C2109i2CSharp\CSharpNet7\PartialClass\bin\Debug\net7.0\PartialClass.pdb
+C:\Users\khacnguyen\source\repos\C2109i2CSharp\CSharpNet7\PartialClass\obj\Debug\net7.0\PartialClass.csproj.AssemblyReference.cache
+C:\Users\khacnguyen\source\repos\C2109i2CSharp\CSharpNet7\PartialClass\obj\Debug\net7.0\PartialClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khacnguyen\source\repos\C2109i2CSharp\CSharpNet7\PartialClass\obj\Debug\net7.0\PartialClass.AssemblyInfoInputs.cache
+C:\Users\khacnguyen\source\repos\C2109i2CSharp\CSharpNet7\PartialClass\obj\Debug\net7.0\PartialClass.AssemblyInfo.cs
+C:\Users\khacnguyen\source\repos\C2109i2CSharp\CSharpNet7\PartialClass\obj\Debug\net7.0\PartialClass.csproj.CoreCompileInputs.cache
+C:\Users\khacnguyen\source\repos\C2109i2CSharp\CSharpNet7\PartialClass\obj\Debug\net7.0\PartialClass.dll
+C:\Users\khacnguyen\source\repos\C2109i2CSharp\CSharpNet7\PartialClass\obj\Debug\net7.0\refint\PartialClass.dll
+C:\Users\khacnguyen\source\repos\C2109i2CSharp\CSharpNet7\PartialClass\obj\Debug\net7.0\PartialClass.pdb
+C:\Users\khacnguyen\source\repos\C2109i2CSharp\CSharpNet7\PartialClass\obj\Debug\net7.0\PartialClass.genruntimeconfig.cache
+C:\Users\khacnguyen\source\repos\C2109i2CSharp\CSharpNet7\PartialClass\obj\Debug\net7.0\ref\PartialClass.dll

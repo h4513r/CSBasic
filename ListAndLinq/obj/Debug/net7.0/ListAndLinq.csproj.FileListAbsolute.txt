@@ -1,0 +1,15 @@
+C:\Users\khacnguyen\source\repos\C2109i2CSharp\CSharpNet7\ListAndLinq\bin\Debug\net7.0\ListAndLinq.exe
+C:\Users\khacnguyen\source\repos\C2109i2CSharp\CSharpNet7\ListAndLinq\bin\Debug\net7.0\ListAndLinq.deps.json
+C:\Users\khacnguyen\source\repos\C2109i2CSharp\CSharpNet7\ListAndLinq\bin\Debug\net7.0\ListAndLinq.runtimeconfig.json
+C:\Users\khacnguyen\source\repos\C2109i2CSharp\CSharpNet7\ListAndLinq\bin\Debug\net7.0\ListAndLinq.dll
+C:\Users\khacnguyen\source\repos\C2109i2CSharp\CSharpNet7\ListAndLinq\bin\Debug\net7.0\ListAndLinq.pdb
+C:\Users\khacnguyen\source\repos\C2109i2CSharp\CSharpNet7\ListAndLinq\obj\Debug\net7.0\ListAndLinq.csproj.AssemblyReference.cache
+C:\Users\khacnguyen\source\repos\C2109i2CSharp\CSharpNet7\ListAndLinq\obj\Debug\net7.0\ListAndLinq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khacnguyen\source\repos\C2109i2CSharp\CSharpNet7\ListAndLinq\obj\Debug\net7.0\ListAndLinq.AssemblyInfoInputs.cache
+C:\Users\khacnguyen\source\repos\C2109i2CSharp\CSharpNet7\ListAndLinq\obj\Debug\net7.0\ListAndLinq.AssemblyInfo.cs
+C:\Users\khacnguyen\source\repos\C2109i2CSharp\CSharpNet7\ListAndLinq\obj\Debug\net7.0\ListAndLinq.csproj.CoreCompileInputs.cache
+C:\Users\khacnguyen\source\repos\C2109i2CSharp\CSharpNet7\ListAndLinq\obj\Debug\net7.0\ListAndLinq.dll
+C:\Users\khacnguyen\source\repos\C2109i2CSharp\CSharpNet7\ListAndLinq\obj\Debug\net7.0\refint\ListAndLinq.dll
+C:\Users\khacnguyen\source\repos\C2109i2CSharp\CSharpNet7\ListAndLinq\obj\Debug\net7.0\ListAndLinq.pdb
+C:\Users\khacnguyen\source\repos\C2109i2CSharp\CSharpNet7\ListAndLinq\obj\Debug\net7.0\ListAndLinq.genruntimeconfig.cache
+C:\Users\khacnguyen\source\repos\C2109i2CSharp\CSharpNet7\ListAndLinq\obj\Debug\net7.0\ref\ListAndLinq.dll

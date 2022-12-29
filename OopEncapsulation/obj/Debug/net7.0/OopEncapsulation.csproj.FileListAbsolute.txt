@@ -1,0 +1,15 @@
+C:\Users\khacnguyen\source\repos\C2109i2CSharp\CSharpNet7\OopEncapsulation\bin\Debug\net7.0\OopEncapsulation.exe
+C:\Users\khacnguyen\source\repos\C2109i2CSharp\CSharpNet7\OopEncapsulation\bin\Debug\net7.0\OopEncapsulation.deps.json
+C:\Users\khacnguyen\source\repos\C2109i2CSharp\CSharpNet7\OopEncapsulation\bin\Debug\net7.0\OopEncapsulation.runtimeconfig.json
+C:\Users\khacnguyen\source\repos\C2109i2CSharp\CSharpNet7\OopEncapsulation\bin\Debug\net7.0\OopEncapsulation.dll
+C:\Users\khacnguyen\source\repos\C2109i2CSharp\CSharpNet7\OopEncapsulation\bin\Debug\net7.0\OopEncapsulation.pdb
+C:\Users\khacnguyen\source\repos\C2109i2CSharp\CSharpNet7\OopEncapsulation\obj\Debug\net7.0\OopEncapsulation.csproj.AssemblyReference.cache
+C:\Users\khacnguyen\source\repos\C2109i2CSharp\CSharpNet7\OopEncapsulation\obj\Debug\net7.0\OopEncapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khacnguyen\source\repos\C2109i2CSharp\CSharpNet7\OopEncapsulation\obj\Debug\net7.0\OopEncapsulation.AssemblyInfoInputs.cache
+C:\Users\khacnguyen\source\repos\C2109i2CSharp\CSharpNet7\OopEncapsulation\obj\Debug\net7.0\OopEncapsulation.AssemblyInfo.cs
+C:\Users\khacnguyen\source\repos\C2109i2CSharp\CSharpNet7\OopEncapsulation\obj\Debug\net7.0\OopEncapsulation.csproj.CoreCompileInputs.cache
+C:\Users\khacnguyen\source\repos\C2109i2CSharp\CSharpNet7\OopEncapsulation\obj\Debug\net7.0\OopEncapsulation.dll
+C:\Users\khacnguyen\source\repos\C2109i2CSharp\CSharpNet7\OopEncapsulation\obj\Debug\net7.0\refint\OopEncapsulation.dll
+C:\Users\khacnguyen\source\repos\C2109i2CSharp\CSharpNet7\OopEncapsulation\obj\Debug\net7.0\OopEncapsulation.pdb
+C:\Users\khacnguyen\source\repos\C2109i2CSharp\CSharpNet7\OopEncapsulation\obj\Debug\net7.0\OopEncapsulation.genruntimeconfig.cache
+C:\Users\khacnguyen\source\repos\C2109i2CSharp\CSharpNet7\OopEncapsulation\obj\Debug\net7.0\ref\OopEncapsulation.dll

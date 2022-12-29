@@ -1,0 +1,15 @@
+C:\Users\khacnguyen\source\repos\C2109i2CSharp\CSharpNet7\SwitchForWhile\bin\Debug\net7.0\SwitchForWhile.exe
+C:\Users\khacnguyen\source\repos\C2109i2CSharp\CSharpNet7\SwitchForWhile\bin\Debug\net7.0\SwitchForWhile.deps.json
+C:\Users\khacnguyen\source\repos\C2109i2CSharp\CSharpNet7\SwitchForWhile\bin\Debug\net7.0\SwitchForWhile.runtimeconfig.json
+C:\Users\khacnguyen\source\repos\C2109i2CSharp\CSharpNet7\SwitchForWhile\bin\Debug\net7.0\SwitchForWhile.dll
+C:\Users\khacnguyen\source\repos\C2109i2CSharp\CSharpNet7\SwitchForWhile\bin\Debug\net7.0\SwitchForWhile.pdb
+C:\Users\khacnguyen\source\repos\C2109i2CSharp\CSharpNet7\SwitchForWhile\obj\Debug\net7.0\SwitchForWhile.csproj.AssemblyReference.cache
+C:\Users\khacnguyen\source\repos\C2109i2CSharp\CSharpNet7\SwitchForWhile\obj\Debug\net7.0\SwitchForWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khacnguyen\source\repos\C2109i2CSharp\CSharpNet7\SwitchForWhile\obj\Debug\net7.0\SwitchForWhile.AssemblyInfoInputs.cache
+C:\Users\khacnguyen\source\repos\C2109i2CSharp\CSharpNet7\SwitchForWhile\obj\Debug\net7.0\SwitchForWhile.AssemblyInfo.cs
+C:\Users\khacnguyen\source\repos\C2109i2CSharp\CSharpNet7\SwitchForWhile\obj\Debug\net7.0\SwitchForWhile.csproj.CoreCompileInputs.cache
+C:\Users\khacnguyen\source\repos\C2109i2CSharp\CSharpNet7\SwitchForWhile\obj\Debug\net7.0\SwitchForWhile.dll
+C:\Users\khacnguyen\source\repos\C2109i2CSharp\CSharpNet7\SwitchForWhile\obj\Debug\net7.0\refint\SwitchForWhile.dll
+C:\Users\khacnguyen\source\repos\C2109i2CSharp\CSharpNet7\SwitchForWhile\obj\Debug\net7.0\SwitchForWhile.pdb
+C:\Users\khacnguyen\source\repos\C2109i2CSharp\CSharpNet7\SwitchForWhile\obj\Debug\net7.0\SwitchForWhile.genruntimeconfig.cache
+C:\Users\khacnguyen\source\repos\C2109i2CSharp\CSharpNet7\SwitchForWhile\obj\Debug\net7.0\ref\SwitchForWhile.dll
